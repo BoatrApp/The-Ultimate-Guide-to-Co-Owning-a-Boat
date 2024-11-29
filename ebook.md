@@ -322,7 +322,7 @@ This ebook draws from a range of resources on co-ownership, boating statistics, 
 - [Shared Yacht Ownership: The Do’s and Don'ts of Being a Co-Owner (MIY Yacht)](https://miy-yacht.net/blog/shared-yacht-ownership-the-dos-and-donts-of-being-a-co-owner)
 - [Splitting the bill - Sharing the cost of boat ownership (Boats and Outboards)](https://www.boatsandoutboards.co.uk/resources/boat-sharing-agreements/)
 - [The Keys to a Successful Boat-Sharing Agreement (Boat Ed)](https://www.boat-ed.com/blog/the-keys-to-a-successful-boat-sharing-agreement/)
-- [The risks of 'teaming up' on property (The Australian)](https://www.theaustralian.com.au/business/wealth/it-might-sound-like-a-good-idea-but-heres-what-you-need-to-know-buying-property-with-friends/news-story/5ce88fc3d3c428daa39859be7829c3a0?utm_source=chatgpt.com)
+- [The risks of 'teaming up' on property (The Australian)](https://www.theaustralian.com.au/business/wealth/it-might-sound-like-a-good-idea-but-heres-what-you-need-to-know-buying-property-with-friends/news-story/5ce88fc3d3c428daa39859be7829c3a0)
 - [Yacht Sharing Guide: Best Ownership Options & Schemes (Sailing Today)](https://www.sailingtoday.co.uk/news/yacht-sharing-guide-best-ownership-options-schemes/)
 
 ## **Open Source**
