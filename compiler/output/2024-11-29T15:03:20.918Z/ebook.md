@@ -3,9 +3,7 @@
 
 Boat ownership is a dream for many, but the financial and logistical demands can be overwhelming. Co-ownership offers a more accessible path, allowing multiple people to enjoy the perks of ownership while sharing the costs and responsibilities.
 
-This ebook is designed by [Boatr](https://www.getboatr.com) to offer a concise, practical roadmap for anyone interested in co-owning a boat. 
-
-By the end of this guide, you’ll have a strong grasp of:
+By the end of this guide, you should have a strong grasp of:
 
 - What co-ownership entails
 - Key considerations for finding the right partners
@@ -13,7 +11,23 @@ By the end of this guide, you’ll have a strong grasp of:
 - Strategies for maintaining harmony among co-owners
 - Tips for maximizing enjoyment and ensuring a smooth co-ownership experience
 
----
+## Vision for This Ebook
+
+This ebook is a comprehensive guide on co-owning a boat, designed to provide essential knowledge, practical advice, and accessible tips for anyone interested in shared boat ownership.
+
+By making it open source, we hope to build a collaborative resource that grows and evolves with the input of experienced sailors, boat co-owners, and enthusiasts alike.
+
+We welcome contributions to enhance this guide, whether you're adding new insights, sharing resources, or refining the content.
+
+## About Boatr
+
+This ebook is designed by [Boatr](https://www.getboatr.com) to offer a concise, practical roadmap for anyone interested in co-owning a boat.
+
+Boatr is dedicated to making boating more accessible, affordable, and enjoyable. Our mission is to connect recreational sailors, co-owners, and fleet owners with tools and resources that simplify every aspect of boat ownership. Through innovative solutions and a strong community focus, Boatr aims to empower a new generation of boat enthusiasts to embrace the open waters with confidence.
+
+Learn more about us at [Boatr](https://getboatr.com).
+
+Contact us at [hello@getboatr.com](mailto:hello@getboatr.com)
 
 ## **Table of Contents**
 
@@ -25,9 +39,9 @@ By the end of this guide, you’ll have a strong grasp of:
 
 &nbsp;&nbsp;&nbsp;&nbsp;This chapter guides you through self-assessment questions and scenarios to determine if co-owning a boat aligns with their needs, lifestyle, and budget. It also covers common motivations and goals for co-ownership, helping readers define their expectations.
 
-#### [3. Top 10 Dos and Don’ts When Co-Owning a Boat](#top-10-dos-and-donts-when-co-owning-a-boat)
+#### [3. Top 10 Dos and Don'ts When Co-Owning a Boat](#top-10-dos-and-donts-when-co-owning-a-boat)
 
-&nbsp;&nbsp;&nbsp;&nbsp;Practical tips for ensuring a smooth co-ownership experience. This chapter outlines the top ten dos and don’ts, offering readers actionable advice for successful shared ownership.
+&nbsp;&nbsp;&nbsp;&nbsp;Practical tips for ensuring a smooth co-ownership experience. This chapter outlines the top ten dos and don'ts, offering readers actionable advice for successful shared ownership.
 
 #### [4. Finding the Right Co-Owners](#finding-the-right-co-owners)
 
@@ -47,7 +61,7 @@ By the end of this guide, you’ll have a strong grasp of:
 
 #### [8. Scheduling and Usage Management](#scheduling-and-usage-management)
 
-&nbsp;&nbsp;&nbsp;&nbsp;In co-ownership, equitable access is key. This chapter offers tips for managing schedules, handling peak times, and accommodating each owner’s needs. It covers strategies for smooth communication and includes a few digital tools for streamlining schedule management.
+&nbsp;&nbsp;&nbsp;&nbsp;In co-ownership, equitable access is key. This chapter offers tips for managing schedules, handling peak times, and accommodating each owner's needs. It covers strategies for smooth communication and includes a few digital tools for streamlining schedule management.
 
 #### [9. Navigating Common Challenges](#navigating-common-challenges)
 
@@ -65,7 +79,9 @@ By the end of this guide, you’ll have a strong grasp of:
 
 &nbsp;&nbsp;&nbsp;&nbsp;This ebook (*The Ultimate Guide to Co-Owning a Boat*) is an open-source project, and we welcome contributions from anyone interested in enhancing or expanding this guide.
 
----
+#### [13. License](#license)
+
+&nbsp;&nbsp;&nbsp;&nbsp;This ebook is licensed under a Creative Commons license, that allows for both personal and commercial use, as long as contributors adhere to the license terms.
 
 ## **Introduction to Boat Co-Ownership**
 
@@ -99,8 +115,6 @@ Not all boat co-ownership arrangements are the same. Common models include:
 
 With this foundational knowledge, you'll be well-equipped to embark on a co-ownership journey with confidence.
 
----
-
 ## **Is Co-Owning Right for You?**
 
 Boat co-ownership is an exciting prospect, but it’s essential to determine whether it aligns with your lifestyle, goals, and expectations. This chapter helps you assess if co-owning a boat is the right path and prepares you for both the joys and responsibilities that come with shared ownership.
@@ -123,8 +137,6 @@ Consider these questions to gauge your fit for co-ownership:
 
 By answering these questions honestly, you’ll gain clarity on whether co-ownership is the right fit for your boating ambitions.
 
----
-
 ## **Top 10 Dos and Don’ts When Co-Owning a Boat**
 
 Co-owning a boat offers unique opportunities and requires a blend of flexibility, respect, and clear communication. 
@@ -132,6 +144,7 @@ Co-owning a boat offers unique opportunities and requires a blend of flexibility
 To ensure smooth sailing with your co-owners, here are 10 essential dos and don’ts. Following these tips will help foster a positive relationship with your co-owners and make the most of your shared investment.
 
 #### **Dos**
+
 1. **Do Communicate Openly and Often:** Keep communication lines open with your co-owners. Regularly discuss schedules, maintenance needs, and any changes in financial contributions to ensure everyone is on the same page.
 
 2. **Do Create and Follow a Maintenance Schedule:** Stay organized with a shared maintenance schedule, outlining who is responsible for tasks like cleaning, engine checks, and seasonal preparations. This ensures the boat stays in top condition and responsibilities are fairly divided.
@@ -143,6 +156,7 @@ To ensure smooth sailing with your co-owners, here are 10 essential dos and don�
 5. **Do Plan for Emergencies:**Unexpected issues will come up, from mechanical breakdowns to weather delays. Having a fund for emergency repairs and a shared approach to handling them will keep things running smoothly.
 
 #### **Don’ts**
+
 1. **Don’t Assume Everyone Knows the Rules:** Whether it's handling the boat or basic onboard etiquette, clarify expectations around use, cleaning, and storage. Don’t leave any room for assumptions about what’s acceptable.
 
 2. **Don’t Ignore Minor Repairs:** Small issues can escalate quickly if neglected. Agree on a proactive approach to repairs, and take responsibility for minor fixes to prevent larger problems down the line.
@@ -156,8 +170,6 @@ To ensure smooth sailing with your co-owners, here are 10 essential dos and don�
 #### Conclusion
 
 Following these dos and don’ts helps set a cooperative tone and ensures a pleasant co-ownership experience. By respecting each other’s time, finances, and preferences, co-owners can enjoy the shared benefits of boat ownership and build a lasting partnership.
-
----
 
 ## **Finding the Right Co-Owners**
 
@@ -174,8 +186,6 @@ Co-ownership success often depends on compatibility among co-owners. This chapte
 ### **Finding Potential Partners**
 
 Explore places like local sailing clubs, online boating forums, and social media groups to connect with like-minded people. Starting with friends or acquaintances who share your boating interests can also lead to a successful partnership.
-
----
 
 ## **Setting Up a Co-Ownership Agreement**
 
@@ -195,11 +205,17 @@ An effective co-ownership agreement is the foundation of a successful partnershi
 
 A well-drafted agreement acts as a guide and reduces potential conflicts, helping co-owners stay aligned on expectations.
 
----
-
 ## **Financial Considerations and Cost Sharing**
 
 Co-ownership makes boat ownership more affordable, but transparent financial planning is key to keeping everyone on the same page. This chapter dives into cost breakdowns and offers advice for tracking expenses and dividing costs fairly.
+
+### **Financial Planning Tips**
+
+- Set up a shared fund or account specifically for boat expenses, making it easier to track payments and contributions.
+
+- Consider appointing one co-owner as the financial manager to handle transactions and report on the budget.
+
+- Make sure to keep a digital record of all transactions including a cost category, description of the purpose and a digital copy of the receipt(s). 
 
 ### **Main Costs to Consider**
 
@@ -211,17 +227,18 @@ Co-ownership makes boat ownership more affordable, but transparent financial pla
 
 - Mooring and Storage: Calculate the cost of docking or storing the boat, with plans for covering this expense year-round.
 
-### **Financial Planning Tips**
+### **Cost Categories**
 
-- Set up a shared fund or account specifically for boat expenses, making it easier to track payments and contributions.
+Consider categorizing the expenses, for an easier breakdown of the total cost of ownership.
 
-- Consider appointing one co-owner as the financial manager to handle transactions and report on the budget.
-
-- Make sure to keep a record of all transactions including a description of the purpose and a digital copy of the receipt(s). 
-
-- Consider categorizing the expenses, for an easier breakdown of the total cost of ownership.
-
----
+1. Fuel
+2. Service & Maintenance
+3. Insurance & Registration
+4. Storage & Transportation
+5. Equipment & Accessories
+6. Financing
+7. Marina Costs
+8. Other
 
 ## **Maintenance and Upkeep**
 
@@ -239,8 +256,6 @@ Proper maintenance ensures a safe, enjoyable experience for all co-owners and pr
 
 Create a rotating schedule for routine maintenance tasks. Alternatively, you can assign specific tasks based on co-owners’ skills, preferences, or availability. This collaborative approach ensures everyone contributes to the boat’s upkeep.
 
----
-
 ## **Scheduling and Usage Management**
 
 Clear scheduling helps prevent conflicts. This chapter offers strategies for fair access and recommends tools for managing schedules.
@@ -255,13 +270,11 @@ Clear and fair scheduling is essential for preventing conflicts and maximizing e
 
 - Peak Times: Develop a fair system for handling high-demand periods, such as rotating holiday slots.
 
-- Guests: Agree on the terms for allowing people outside the co-ownership captain the boat; with or without one of the co-owners being part of the trip.
+- Guests: Agree on the terms for allowing people outside the co-ownership to captain the boat; with or without one of the co-owners being part of the trip.
 
-- Digital Tools: Use a digital scheduling tool like Google Calendar or specialized apps like [Boatr](https://www.getboatr.com/download) to streamline planning and provide easy access to the boat’s availability.
+- Digital Tools: Use a digital scheduling tool like Google Calendar, Trello or specialized apps like [Boatr](https://www.getboatr.com/download) to streamline planning and provide easy access to the boat’s availability.
 
 Effective scheduling reduces misunderstandings and makes co-ownership more enjoyable for everyone.
-
----
 
 ## **Navigating Common Challenges**
 
@@ -277,8 +290,6 @@ Boat co-ownership can come with its share of challenges, from scheduling conflic
 
 By planning for these challenges, co-owners can foster a cooperative environment that prioritizes open communication and respect.
 
----
-
 ## **Enjoying the Benefits of Co-Ownership**
 
 Co-owning a boat can be incredibly rewarding, offering social connections, affordable sailing, and a deeper appreciation of the boating lifestyle. This chapter highlights the benefits of co-ownership, encouraging readers to focus on the positives.
@@ -292,8 +303,6 @@ Co-owning a boat can be incredibly rewarding, offering social connections, affor
 - Sustainability: By sharing a boat, co-owners reduce their environmental impact, aligning with eco-friendly boating practices.
 
 Co-ownership offers a unique way to enjoy sailing with less financial burden, ultimately leading to more time on the water.
-
----
 
 ## **References**
 
@@ -330,14 +339,17 @@ This ebook draws from a range of resources on co-ownership, boating statistics, 
 
 To ensure all contributions are constructive and collaborative, please follow our contribution guidelines (if applicable) and provide sources for any additional information you include.
 
-### **License**
+## **License**
 
-This ebook is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0). This means:
+This ebook is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0). 
+
+This means:
 
 1. Attribution – You are free to share and adapt the material, provided you give appropriate credit, provide a link to the license, and indicate if changes were made.
 
 2. ShareAlike – If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
-This license allows for both personal and commercial use, as long as contributors adhere to these terms. For more details, see the full legal code [here](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
+This license allows for both personal and commercial use, as long as contributors adhere to these terms.
 
----
+For more details, see the full legal code [here](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
+
