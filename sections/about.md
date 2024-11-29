@@ -1,4 +1,4 @@
-# The Ultimate Guide to Co-Owning a Boat
+# A Brief Guide to Co-Owning a Boat
 
 Boat ownership is a dream for many, but the financial and logistical demands can be overwhelming. Co-ownership offers a more accessible path, allowing multiple people to enjoy the perks of ownership while sharing the costs and responsibilities.
 

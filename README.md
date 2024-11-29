@@ -1,6 +1,6 @@
-# The Ultimate Guide to Co-Owning a Boat
+# A Brief Guide to Co-Owning a Boat
 
-Welcome to the open-source repository for **The Ultimate Guide to Co-Owning a Boat**, an ebook by **Boatr**.
+Welcome to the open-source repository for **A Brief Guide to Co-Owning a Boat**, an ebook by **Boatr**.
 
 ---
 
@@ -26,7 +26,7 @@ We welcome contributions to enhance this guide, whether you're adding new insigh
 
 ## Contributing
 
-*The Ultimate Guide to Co-Owning a Boat* is an open-source project, and we welcome contributions from anyone interested in enhancing or expanding this guide. Whether you have additional insights, practical tips, or experiences to share, your contributions can help make this guide an even more valuable resource for current and prospective boat co-owners.
+*A Brief Guide to Co-Owning a Boat* is an open-source project, and we welcome contributions from anyone interested in enhancing or expanding this guide. Whether you have additional insights, practical tips, or experiences to share, your contributions can help make this guide an even more valuable resource for current and prospective boat co-owners.
 
 ### **If you’re interested in contributing:**
 
