@@ -5,6 +5,7 @@ Co-owning a boat offers unique opportunities and requires a blend of flexibility
 To ensure smooth sailing with your co-owners, here are 10 essential dos and don’ts. Following these tips will help foster a positive relationship with your co-owners and make the most of your shared investment.
 
 #### **Dos**
+
 1. **Do Communicate Openly and Often:** Keep communication lines open with your co-owners. Regularly discuss schedules, maintenance needs, and any changes in financial contributions to ensure everyone is on the same page.
 
 2. **Do Create and Follow a Maintenance Schedule:** Stay organized with a shared maintenance schedule, outlining who is responsible for tasks like cleaning, engine checks, and seasonal preparations. This ensures the boat stays in top condition and responsibilities are fairly divided.
@@ -16,6 +17,7 @@ To ensure smooth sailing with your co-owners, here are 10 essential dos and don�
 5. **Do Plan for Emergencies:**Unexpected issues will come up, from mechanical breakdowns to weather delays. Having a fund for emergency repairs and a shared approach to handling them will keep things running smoothly.
 
 #### **Don’ts**
+
 1. **Don’t Assume Everyone Knows the Rules:** Whether it's handling the boat or basic onboard etiquette, clarify expectations around use, cleaning, and storage. Don’t leave any room for assumptions about what’s acceptable.
 
 2. **Don’t Ignore Minor Repairs:** Small issues can escalate quickly if neglected. Agree on a proactive approach to repairs, and take responsibility for minor fixes to prevent larger problems down the line.

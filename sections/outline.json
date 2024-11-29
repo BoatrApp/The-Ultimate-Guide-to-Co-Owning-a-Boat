@@ -1,0 +1,22 @@
+{
+    "sections":[
+        {
+            "index":1,
+            "content":{
+                "reference":"./sections/about.md"
+            }
+        },
+        {
+            "index":2,
+            "content":{
+                "reference":"../compiler/helpers/build_toc.js"
+            }            
+        },
+        {
+            "index":3,
+            "content":{
+                "reference":"../compiler/helpers/build_chapters.js"
+            }            
+        }
+    ]
+}
